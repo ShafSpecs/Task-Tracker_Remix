@@ -1,34 +1,13 @@
-# Welcome to Remix!
+# Remix Task Tracker App
 
-- [Remix Docs](https://remix.run/docs)
+A simple, beginner-friendly app built with Remix 💿 and Prisma ORM. You can check out a [demo](https://task-tracker-remix.vercel.app/) here.
 
-## Deployment
+## Motivation
 
-After having run the `create-remix` command and selected "Vercel" as a deployment target, you only need to [import your Git repository](https://vercel.com/new) into Vercel, and it will be deployed.
+Build a simple Remix app to actually have fun with Remix and gauge my satisfaction with Remix on small-scale apps. I decided to also make this a beginner friendly repository by commenting a lot of what I was doing, and leaving out a lot of obvious improvements to the code for new open sorcerers 🧙‍♂️ (Open Source) and new Remix users to enjoy their first contribution to open source (yes, this app is an open sourced app that I am still building), wether by opening an issue or creating their own PR! 
 
-If you'd like to avoid using a Git repository, you can also deploy the directory by running [Vercel CLI](https://vercel.com/cli):
+## Contributing
 
-```sh
-npm i -g vercel
-vercel
-```
+Want to fix something or add a new feature? Either open a new feature issue or fork this project and create your own PR.
 
-It is generally recommended to use a Git repository, because future commits will then automatically be deployed by Vercel, through its [Git Integration](https://vercel.com/docs/concepts/git).
-
-## Development
-
-To run your Remix app locally, make sure your project's local dependencies are installed:
-
-```sh
-npm install
-```
-
-Afterwards, start the Remix development server like so:
-
-```sh
-npm run dev
-```
-
-Open up [http://localhost:3000](http://localhost:3000) and you should be ready to go!
-
-If you're used to using the `vercel dev` command provided by [Vercel CLI](https://vercel.com/cli) instead, you can also use that, but it's not needed.
+If you've found a bug, please open a new issue and we would be happy to review it 😄.
